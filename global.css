@@ -11,3 +11,7 @@ body {
 	box-sizing: border-box;
 	font-family: Roboto,Helvetica,Arial,sans-serif;
 }
+
+:root {
+	--navbar-background: black;
+}

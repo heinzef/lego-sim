@@ -1,0 +1,11 @@
+{
+    "name": "Lego Simulator",
+    "short_name": "Lego Sim",
+    "description": "Our Lego Demo Simulation",
+    "theme_color": "#d04a02",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
